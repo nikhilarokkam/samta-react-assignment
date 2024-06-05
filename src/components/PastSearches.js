@@ -1,4 +1,3 @@
-// src/components/PastSearches.js
 import React from 'react';
 import { Box, List, ListItem, ListItemText, Typography } from '@mui/material';
 
