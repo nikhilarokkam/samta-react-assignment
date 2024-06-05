@@ -24,3 +24,18 @@ This is a web application developed as a task for the React.js intern position a
    ```bash
    git clone https://github.com/nikhilarokkam/samta-react-assignment
    cd samta-ai-webapp
+   
+2. Install dependencies:
+   ```bash
+   npm install
+   
+3. Run the application:
+   ```bash
+   npm start
+
+### Technologies Used
+- React.js
+- Axios
+- React Router
+
+### Deployed Link: https://samta-react-assignment-nikhila.netlify.app/
