@@ -1,4 +1,3 @@
-// src/components/VideoPlayer.js
 import React from 'react';
 import { Dialog, DialogActions, DialogContent, DialogTitle, Button } from '@mui/material';
 
