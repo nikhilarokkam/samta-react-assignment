@@ -39,3 +39,6 @@ This is a web application developed as a task for the React.js intern position a
 - React Router
 
 ### Deployed Link: https://samta-react-assignment-nikhila.netlify.app/
+
+### Output:
+![screencapture-samta-react-assignment-nikhila-netlify-app-2024-06-05-14_10_17](https://github.com/nikhilarokkam/samta-react-assignment/assets/115566678/80d20a3d-96e7-4446-8c9f-40824b641057)
