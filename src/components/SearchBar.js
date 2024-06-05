@@ -1,4 +1,3 @@
-// src/components/SearchBar.js
 import React, { useState } from 'react';
 import { Box, Button, TextField } from '@mui/material';
 
