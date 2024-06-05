@@ -1,0 +1,48 @@
+/* src/components/VideoLibrary.css */
+.video-library-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .add-video-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+  }
+  
+  .add-video-form input[type="file"] {
+    margin: 10px 0;
+  }
+  
+  .add-video-form button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-video-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .show-bookmarked-button {
+    margin-top: 20px;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .show-bookmarked-button:hover {
+    background-color: #218838;
+  }
+  
