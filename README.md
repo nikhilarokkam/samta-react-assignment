@@ -1,18 +1,6 @@
 # Samta.ai Media Library
 
-
-
-
-
-
-
-
-
-
-
-
-
-This is a web application developed as a task for the React.js intern position at Samta.ai. The application includes a video library and user information sections.
+This is web application developed as a task for the React.js intern position at Samta.ai. The application includes a video library and user information sections.
 
 ## Features
 
